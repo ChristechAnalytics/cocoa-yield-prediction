@@ -28,7 +28,7 @@ This project is based on a real dataset from my undergraduate thesis, which expl
 - Streamlit-based prediction interface
 
 ## 📈 Sample Prediction Output
-![Sample Prediction Screenshot](images/Screenshot%20(136).png)
+![Sample Prediction Screenshot](images/Screenshot%20(138).png)
 
 ## 🛠️ How to Run the Project
 ```bash
